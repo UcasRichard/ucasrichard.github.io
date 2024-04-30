@@ -5,6 +5,9 @@ subtitle:   "多任务管理 -- blog测试"
 date:       2024-04-26
 author:     "ucasrichard"
 header-img: "img/post-bg-js-version.jpg"
+tags:
+    - 管理
+    - 方法论
 ---
 
 管理工作的三部曲——管理规划、团队建设和任务管理，到现在我们已经探讨完了管理规划和团队建设，从本文开始，我们进入任务管理的章节，也就是我们口头说的“做事”。
