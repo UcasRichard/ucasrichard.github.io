@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: lccpowter@gmail.com
 description: ""
 keyword: ""
-url: "http://ucasrichard.github.io"              # your host, for absolute URL
+url: "https://ucasrichard.github.io/"              # your host, for absolute URL
 baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
